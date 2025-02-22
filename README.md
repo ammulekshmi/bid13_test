@@ -28,6 +28,7 @@ This project is divided into two main tasks:
 
 #### Requirements
 - PHP (with CURL enabled).
+- Generate valid API credentials 
 
 #### Steps
 1. Log in to your Telesign Developer Dashboard.
@@ -52,5 +53,5 @@ This project is divided into two main tasks:
 #### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bid13_test.git
+   git clone https://github.com/ammulekshmi/bid13_test.git
    cd bid13_test
