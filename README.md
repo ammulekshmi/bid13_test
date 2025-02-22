@@ -49,6 +49,7 @@ This project is divided into two main tasks:
 
 #### Requirements
 - PHP (with necessary extensions like GD for image processing).
+- Make sure the `PHP Quiz Question #2 - out.csv` is placed on the right path.
 
 #### Installation
 1. Clone the repository:
